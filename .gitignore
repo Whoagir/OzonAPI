@@ -1,0 +1,22 @@
+api_keys.json
+
+# Python/Django
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.log
+venv/
+.env
+
+# React
+node_modules/
+build/
+npm-debug.log
+
+# IDE
+.idea/
+
+# Секреты и временные файлы
+secrets.json
+*.secret
+*.tmp
